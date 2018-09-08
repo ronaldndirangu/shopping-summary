@@ -1,5 +1,6 @@
-# Shopping summary react app
-This is a react-redux shopping summary application that uses react-bootstrap for the UI.
+# Shopping Summary Application
+This is a shopping summary react application using redux for state management and react-bootstrap for the UI.
+
 
 #### Running the app
 ```
